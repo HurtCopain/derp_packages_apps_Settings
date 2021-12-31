@@ -532,4 +532,8 @@
     <string name="face_unlock_method_default">Wenn der Bildschirm eingeschaltet ist</string>
     <string name="face_unlock_method_swipe">Beim Wischen auf dem Sperrbildschirm</string>
 
+    <!-- Idle Manager -->
+    <string name="idle_manager_title">Idle-Manager</string>
+    <string name="idle_manager_summary">Stoppt alle nicht wesentlichen Hintergrundprozesse, wenn das Gerät im Leerlauf ist</string>
+
 </resources>
