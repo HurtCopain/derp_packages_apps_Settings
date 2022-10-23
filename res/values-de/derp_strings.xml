@@ -536,4 +536,8 @@
     <string name="idle_manager_title">Idle-Manager</string>
     <string name="idle_manager_summary">Stoppt alle nicht wesentlichen Hintergrundprozesse, wenn das Gerät im Leerlauf ist</string>
 
+    <!-- Show clipboard overlay -->
+    <string name="show_clipboard_overlay_title">Zwischenablage-Overlay anzeigen</string>
+    <string name="show_clipboard_overlay_summary">Ein Overlay in der linken unteren Ecke des Bildschirms anzeigen, wenn etwas in die Zwischenablage kopiert wird</string>
+
 </resources>
